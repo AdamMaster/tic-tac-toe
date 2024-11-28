@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "cSpell.language": "en,ru",
+  "cSpell.dictionaries": [
+    "english",
+    "russian"
+  ]
+}
